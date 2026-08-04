@@ -1,0 +1,26 @@
+Usage Guide
+
+Step 1
+Run the program.
+
+python3 netdiscover_automation.py
+
+Step 2
+Enter the network interface.
+
+Example
+
+eth0
+
+or
+
+wlan0
+
+Step 3
+Enter the network range.
+
+Example
+
+192.168.1.0/24
+
+The tool will automatically perform live host discovery and display all discovered devices.
