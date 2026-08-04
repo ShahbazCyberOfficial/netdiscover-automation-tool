@@ -2,7 +2,7 @@
 
 ## Clone Repository
 
-git clone https://github.com/yourusername/netdiscover-automation-tool.git
+git clone https://github.com/ShahbazCyberOfficial/netdiscover-automation-tool.git
 
 ## Open Directory
 
