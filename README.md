@@ -21,10 +21,37 @@ A lightweight Python automation tool that simplifies network host discovery usin
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/netdiscover-automation-tool.git
+sudo git clone https://github.com/ShahbazCyberOfficial/netdiscover-automation-tool.git
 
 cd netdiscover-automation-tool
 
-chmod +x netdiscover_automation.py
+sudo chmod +x netdiscover_automation.py
 
-python3 netdiscover_automation.py
+sudo python3 netdiscover_automation.py
+
+
+Usage
+
+Example Interface
+
+eth0
+
+or
+
+wlan0
+
+Example Network Range
+
+192.168.1.0/24
+Example Output
+IP Address
+MAC Address
+Vendor
+Hostname
+Disclaimer
+
+Use this tool only on networks you own or have explicit permission to assess.
+
+Author
+
+Shahbaz Bhutta
